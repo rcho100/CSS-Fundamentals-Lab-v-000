@@ -32,5 +32,6 @@ figcaption {
 }
 
 #details {
+  background: red;
   display: block;
 }
